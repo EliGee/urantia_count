@@ -9,7 +9,7 @@
 import sys
 import string
 
-urantia = "C:\\Users\\eilee\\OneDrive\\Documents\\school_computer_sci\\urantia.txt"
+urantia = "urantia.txt"
 
 try: 
 	with open(urantia) as f: 
